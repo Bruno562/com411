@@ -6,3 +6,4 @@ print("...rebooting output motors")
 print("...rebooting hover engine")
 
 print("System online.")
+print("\n\t\t\"I am Beep!\"")
