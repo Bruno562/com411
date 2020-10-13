@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python basics/functions/ascii_code.py"
+=======
+run = "python basics/input/user_input.py"
+>>>>>>> ef69d82bc8bbef79bcf149d0b56d8ac3d3790f3a
